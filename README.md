@@ -1,6 +1,6 @@
 # Bolt — Discord AI Bot (OpenAI)
 
-Made by Quited_devs — https://github.com/Quited-devs/Bolt
+Made by fy2ne — https://github.com/fy2ne/Bolt
 
 Bolt is a lightweight Discord bot that uses the OpenAI API to generate AI-powered replies in a single specified channel.
 
@@ -103,3 +103,4 @@ If you're organizing this repo with branches, this main (default) branch has bee
 ## License
 
 This project is released under the MIT License. See the `LICENSE` file.
+
