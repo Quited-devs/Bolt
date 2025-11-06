@@ -15,10 +15,10 @@
     "ai",
     "openai"
   ],
-  "author": "Quited_devs",
+  "author": "fy2ne",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Quited-devs/Bolt.git"
+    "url": "https://github.com/fy2ne/Bolt.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -27,3 +27,4 @@
     "openai": "^4.8.0"
   }
 }
+
